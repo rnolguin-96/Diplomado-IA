@@ -1,0 +1,80 @@
+# ==========================================
+# 📦 DATASETS Y MODELOS PESADOS (IA/ML)
+# ==========================================
+datasets/
+modelos_guardados/
+*.pth
+*.h5
+*.pkl
+*.onnx
+*.pb
+*.tflite
+*.ckpt
+*.weights
+
+# ==========================================
+# 📊 ARCHIVOS MULTIMEDIA Y ACADÉMICOS PESADOS
+# ==========================================
+# Presentaciones y documentos del profesor
+*.ppt
+*.pptx
+*.key
+*.doc
+*.docx
+*.pdf
+
+# Videos y archivos de audio (clases grabadas, multimedia)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.wav
+*.flac
+
+# Archivos comprimidos grandes
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# ==========================================
+# 🖥️ BASURA DEL SISTEMA OPERATIVO (Mac/Windows)
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ==========================================
+# 🐍 ENTORNOS VIRTUALES Y CACHÉ DE PYTHON
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+.python-version
+
+# ==========================================
+# 📓 COMPLEMENTOS DE JUPYTER NOTEBOOKS
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.local/share/jupyter/
+
+# ==========================================
+# ⚙️ CONFIGURACIONES DE VS CODE LOCALES
+# ==========================================
+.vscode/
+!.vscode/extensions.json
