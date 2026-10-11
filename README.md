@@ -36,13 +36,13 @@ Diplomado-IA/
 │   └── 📜 modelos.py           # Clases y arquitecturas custom de redes neuronales (PyTorch)
 │
 └── 📂 cursos/                  # Espacio dedicado a la malla académica del diplomado
-    ├── 📂 C0 Seminario Inicial/              
+    ├── 📂 C0-Seminario-Inicial/              
     │   ├── 📂 clases/          # Documentación, PDFs y apuntes teóricos del profesor
     │   └── 📂 laboratorios/    # Cuadernos interactivos (.ipynb) para experimentación rápida
     │   └── 📂 Material Complementario/    # Material que pueda complementar la clase y no sea entregado por el curso
-    ├── 📂 C1 Conceptos Fundamentales/
+    ├── 📂 C1-Conceptos-Fundamentales/
     │   └── ...
-    └── 📂 C2 Grandes Modelos de Lenguaje/
+    └── 📂 C2-Grandes-Modelos-de-Lenguaje/
         └── ...
 ```
 
