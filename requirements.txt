@@ -176,6 +176,7 @@ numpy==2.5.4
     #   -r requirements.in
     #   contourpy
     #   matplotlib
+    #   pandas
     #   torchvision
 packaging==26.3
     # via
@@ -186,6 +187,8 @@ packaging==26.3
     #   jupyterlab-server
     #   matplotlib
     #   nbconvert
+pandas==3.0.6
+    # via -r requirements.in
 pandocfilters==1.5.1
     # via nbconvert
 parso==0.8.7
@@ -225,6 +228,7 @@ python-dateutil==2.9.0.post0
     #   arrow
     #   jupyter-client
     #   matplotlib
+    #   pandas
 python-json-logger==4.2.0
     # via jupyter-events
 pyyaml==6.0.3
