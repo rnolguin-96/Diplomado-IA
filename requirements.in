@@ -1,0 +1,10 @@
+# Núcleo
+torch
+torchvision
+numpy
+matplotlib
+pillow
+
+# Notebooks
+jupyterlab
+ipykernel
