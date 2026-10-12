@@ -42,7 +42,8 @@ Diplomado-IA/
     │   └── 📂 Material Complementario/    # Material que pueda complementar la clase y no sea entregado por el curso
     ├── 📂 C1-Conceptos-Fundamentales/
     │   └── ...
-    └── 📂 C2-Grandes-Modelos-de-Lenguaje/
+    └── 📂 C2-Grandes-Modelos-de-
+    Lenguaje/
         └── ...
 ```
 
